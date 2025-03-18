@@ -1,0 +1,25 @@
+[package]
+name = "text_editor"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "terminal"
+path = "src/main.rs"
+
+[[bin]]
+name = "gui"
+path = "src/gui.rs"
+
+[dependencies]
+crossterm = "0.27.0"
+ratatui = "0.26.0"
+unicode-width = "0.1.11"
+egui = "0.31.1"
+eframe = "0.31.1"
+
+[package.metadata.bundle]
+name = "text_editor"
+identifier = "com.github.Divhanthelion"
+icon = ["icon.png"]
+resources = ["/Users/rootuser/subfolder/text_editor/icon.png"]
