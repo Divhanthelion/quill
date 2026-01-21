@@ -1,1 +1,6 @@
 /target
+
+output/
+.claude/
+.kiro/
+*.DS_Store

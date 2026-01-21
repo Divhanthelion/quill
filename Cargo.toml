@@ -22,4 +22,4 @@ eframe = "0.31.1"
 name = "text_editor"
 identifier = "com.github.Divhanthelion"
 icon = ["icon.png"]
-resources = ["/Users/rootuser/subfolder/text_editor/icon.png"]
+resources = ["icon.png"]
