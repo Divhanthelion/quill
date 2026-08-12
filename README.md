@@ -1,3 +1,5 @@
+> **Archived.** Successor: [Smithy-v1](https://github.com/Divhanthelion/Smithy-v1).
+
 # Simple Text Editor
 
 A text editor with formatting capabilities written in Rust.
